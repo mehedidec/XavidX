@@ -112,7 +112,6 @@ $(function(){
       $("#work .work_head i").toggleClass("darkwork-head")
       $("#work .work_head p").toggleClass("darkwork-p")
       $("#work .work_head .work_category .wc_btn").toggleClass("darkwork-btn")
-      $("#work .work_head .work_category .mixitup-control-active").toggleClass("darkwork-btn-active")
 
       //testimonial dark
       $("#testimonial .testimonial_head i").toggleClass("darktestimonial-head")
