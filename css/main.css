@@ -51,7 +51,7 @@ body.dark-mode{
 #work .work_head .work_category .wc_btn.darkwork-btn:hover{
     background-color: #292932;
 }
-#work .work_head .work_category .mixitup-control-active.darkwork-btn-active{
+#work .work_head .work_category .darkwork-btn.mixitup-control-active{
     background-color: #292932;
 }
 #testimonial .testimonial_head i.darktestimonial-head{
