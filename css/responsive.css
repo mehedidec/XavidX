@@ -1,0 +1,152 @@
+@media all and (max-width: 575px) {
+    nav{
+        position: absolute !important;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+    #banner i{
+        display: none !important;
+    }
+    #about .about_content{
+        padding: 45px 40px;
+    }
+    #work .work-main{
+        text-align: center;
+    }
+    #footer .aboutf p{
+        padding-bottom: 15px;
+    }
+    #footer .contactf .contact_info{
+        padding-bottom: 15px;
+    }
+    #footer .contactf .contact_info i{
+        display: block;
+    }
+    #credit .copyright, #credit .social_icon{
+        text-align: center;
+    }
+    #credit .copyright span, #credit .designer span, #credit .designer a, #credit .social_icon a{
+        line-height: 45px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    nav{
+        position: absolute !important;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+    #banner i{
+        display: none !important;
+    }
+    #about .about_content p{
+        font-size: 15px;
+    }
+    #work .work-main{
+        text-align: center;
+    }
+    #footer .aboutf p{
+        padding-bottom: 15px;
+    }
+    #footer .contactf .contact_info{
+        padding-bottom: 15px;
+    }
+    #footer .contactf .contact_info i{
+        display: block;
+    }
+    #credit .copyright span, #credit .designer span, #credit .designer a, #credit .social_icon a{
+        line-height: 60px;
+    }
+    #credit .designer{
+        text-align: end;
+    }
+    #credit .social_icon{
+        text-align: center;
+    }
+    
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    nav{
+        position: absolute !important;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+    #footer .aboutf p{
+        padding-bottom: 15px;
+    }
+    #footer .contactf .contact_info{
+        padding-bottom: 15px;
+    }
+    #footer .contactf .contact_info i{
+        display: block;
+    }
+    #credit .social_icon{
+        text-align: center;
+    }
+    #credit .copyright span, #credit .designer span, #credit .designer a, #credit .social_icon a{
+        line-height: 60px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1050px) {
+    #about .about_content{
+        padding: 22px 20px;
+    }
+    #about .about_content h2{
+        font-size: 24px;
+    }
+    #about .about_content p{
+        font-size: 14px;
+        padding-top: 10px;
+    }
+    #about .about_content .about_btn{
+        padding-top: 30px;
+    }
+}
+
+@media (min-width: 1051px) and (max-width: 1129px) {
+    #about .about_content{
+        padding: 35px 45px;
+    }
+    #about .about_content p{
+        padding-top: 16px;
+    }
+    #about .about_content .about_btn{
+        padding-top: 45px;
+    }
+}
+
+@media (min-width: 1130px) and (max-width: 1199px) {
+    #about .about_content{
+        padding: 60px 50px;
+    }
+    #about .about_content p{
+        padding-top: 18px;
+    }
+    #about .about_content .about_btn{
+        padding-top: 44px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1269px) {
+    #about .about_content{
+        padding: 60px 68px;
+    }
+    #about .about_content p{
+        padding-top: 20px;
+    }
+    #about .about_content .about_btn{
+        padding-top: 55px;
+    }
+}
+
+@media (min-width: 1270px) and (max-width: 1345px) {
+    #about .about_content{
+        padding: 63px 75px;
+    }
+    #about .about_content p{
+        font-size: 14px;
+        padding-top: 20px;
+    }
+    #about .about_content .about_btn{
+        padding-top: 55px;
+    }
+}
